@@ -1,0 +1,1 @@
+/home/dylan/Documents/rustprojects/kubos_projects/A_Mountain_Test_Mission/testcode/usb_test/target/debug/usb_test: /home/dylan/Documents/rustprojects/kubos_projects/A_Mountain_Test_Mission/testcode/usb_test/src/main.rs
