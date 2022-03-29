@@ -1,0 +1,13 @@
+/home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/deps/clang_sys-6a9e97aa0c951c18.rmeta: /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/lib.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/support.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/link.rs /home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/build/clang-sys-bb917274482bc409/out/common.rs /home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/build/clang-sys-bb917274482bc409/out/dynamic.rs
+
+/home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/deps/libclang_sys-6a9e97aa0c951c18.rlib: /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/lib.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/support.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/link.rs /home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/build/clang-sys-bb917274482bc409/out/common.rs /home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/build/clang-sys-bb917274482bc409/out/dynamic.rs
+
+/home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/deps/clang_sys-6a9e97aa0c951c18.d: /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/lib.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/support.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/link.rs /home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/build/clang-sys-bb917274482bc409/out/common.rs /home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/build/clang-sys-bb917274482bc409/out/dynamic.rs
+
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/lib.rs:
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/support.rs:
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/link.rs:
+/home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/build/clang-sys-bb917274482bc409/out/common.rs:
+/home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/build/clang-sys-bb917274482bc409/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/dylan/Documents/stheno/A_Mountain_Test_Mission/testcode/camera_test/target/debug/build/clang-sys-bb917274482bc409/out

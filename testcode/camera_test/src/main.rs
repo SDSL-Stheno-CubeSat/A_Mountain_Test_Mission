@@ -13,6 +13,7 @@ fn main() {
     // open stream
     camera.open_stream().unwrap();
 
+    // 640 x 480
     for x in 0..3 {
         let frame : ImageBuffer<Rgb<u8>, Vec<u8>> = camera.frame().unwrap();
         println!(
@@ -22,6 +23,6 @@ fn main() {
             frame.len()
         );
         
-        frame.save(format!("/home/kubos/images/testimage{}.png", x)).unwrap();
+        //frame.save(format!("/home/kubos/images/testimage{}.png", x)).unwrap();
     }
 }
